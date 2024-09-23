@@ -1,6 +1,6 @@
 # Relatório do TP2
 ## Data: 23/09/2024
-## Autor: Andreia Cardoso
+## Autor: Andreia Machado Cardoso
 
 ## Resumo:
 O TP2 consistiu na resolução do exercício:
