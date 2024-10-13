@@ -4,8 +4,9 @@
 
 ## Resumo
 O TP3 consistiu na realização do exercício:
-- "Desenvolve em Python o código necessário para o jogo dos 21 fósforos: 
-O jogo
+- "Desenvolve em Python o código necessário para o jogo dos 21 fósforos:
+
+  O jogo
 * No início do jogo, há 21 fósforos;
 * Cada jogador (computador ou utilizador), pode tirar 1, 2, 3 ou 4 fósforos quando for a sua vez de jogar;
 * Os jogadores jogam alternadamente;
