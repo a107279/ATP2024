@@ -2,7 +2,7 @@
 ## Data: 2/10/2024
 ## Autor: Andreia Machado Cardoso
 
-## Resumo
+## Resumo:
 O TP3 consistiu na realização do exercício:
 - "Desenvolve em Python o código necessário para o jogo dos 21 fósforos:
 
