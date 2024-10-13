@@ -1,5 +1,5 @@
 # Relatório do TP3
-## Data: 2-10-2024
+## Data: 2/10/2024
 ## Autor: Andreia Machado Cardoso
 
 ## Resumo
