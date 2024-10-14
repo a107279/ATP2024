@@ -1,7 +1,7 @@
 # Relatório do TP4
 ## Data: 7/10/2024
 ## Autor: Andreia Machado Cardoso
-## Resumo
+## Resumo:
 O TP4 consistiu na realização de uma aplicação para manipulação de listas de inteiros:
 - É uma aplicação em Python que coloca no monitor o seguinte menu:
     * (1) Criar Lista 
