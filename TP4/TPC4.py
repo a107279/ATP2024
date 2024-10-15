@@ -20,7 +20,7 @@ def Criar_Lista():
     lista = []
     i = 0
     while i < N:
-        x = random.randint(1,101)
+        x = random.randint(1,100)
         lista.append(x)
         i = i + 1
     return lista
