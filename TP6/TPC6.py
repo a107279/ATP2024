@@ -34,7 +34,6 @@ def listar_turma(turma):
     else:
         print("\nA turma está vazia.")
 
-# Função para consultar um aluno por ID
 def consultar_aluno_por_id(turma):
     id_consulta = input("Digite o ID do aluno que deseja consultar: ")
     aluno_encontrado = next((aluno for aluno in turma if aluno[1] == id_consulta), None)
@@ -43,7 +42,6 @@ def consultar_aluno_por_id(turma):
     else:
         print("\nAluno não encontrado.")
 
-# Função para guardar a turma em ficheiro
 def guardar_turma_em_ficheiro(turma):
     nome_ficheiro = input("Nome do ficheiro para guardar (ex: turma.txt): ")
     try:
@@ -55,7 +53,6 @@ def guardar_turma_em_ficheiro(turma):
     except Exception as e:
         print(f"\nErro ao guardar a turma: {e}")
 
-# Função para carregar a turma de um ficheiro
 def carregar_turma_de_ficheiro():
     nome_ficheiro = input("Nome do ficheiro para carregar (ex: turma.txt): ")
     try:
@@ -74,7 +71,6 @@ def carregar_turma_de_ficheiro():
         print(f"\nErro ao carregar a turma: {e}")
         return []
 
-# Função principal para controlar o menu e fluxo do programa
 def main():
     turma = []  # A turma começa vazia
     while True:
