@@ -1,5 +1,6 @@
 # Relatório da TP6
 ## Data: 22/10/2024
+## Autor: Andreia Machado Cardoso
 ## Resumo:
 O TP6 consistiu na realização de uma aplicação para gestão de alunos:
 "Criar uma aplicação que coloca no monitor o seguinte menu de operações:
